@@ -51,13 +51,13 @@ We apply multiple classification models, compare their performances, and visuali
 ## 📊 Exploratory Data Analysis
 
 ### Correlation Mtrix Between Features and Target Variable
-![Correlation Mtrix Between Features and Target Variable](images/Screenshot%202025-08-27%20193817.png)
+![Correlation Mtrix Between Features and Target Variable](Images/Screenshot%202025-08-27%20193817.png)
 
 ### Education Category Distribution
-![Education Distribution](images/images/Screenshot%202025-08-27%20193853.png)
+![Education Distribution](Images/Screenshot%202025-08-27%20193853.png)
 
 ### Marital Status Distribution
-![Marital Status Distribution](images/images/Screenshot%202025-08-27%20193934.png)
+![Marital Status Distribution](Images/Screenshot%202025-08-27%20193934.png)
 
 ---
 
